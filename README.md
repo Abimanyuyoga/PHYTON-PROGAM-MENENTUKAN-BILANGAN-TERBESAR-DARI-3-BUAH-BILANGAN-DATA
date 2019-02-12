@@ -11,7 +11,11 @@
 # 2. Langkah Kedua Kita Cek Hasil Source Code :
   Disini saya menggunakan aplikasi cmd, Kemudian Kita Ikuti  Cara Seperti Gambar Dibawah Ini :
   
-
+![capture1](https://user-images.githubusercontent.com/46512870/52616259-84ee6c00-2eca-11e9-9d9a-99f9f71f4306.PNG)
 
 Nah.. Disini Kita Mengisi Angka Di Setiap Bilangan, Contoh Saya Memasukan bilangan1 = 66, bilangan2 = 90, bilangan3 = 9.
-Maka Hasil Outputnya 90 terbesar dan 9 terkecil
+Maka Hasil Outputnya 90 terbesar dan 9 terkecil.
+
+Jika Ingin Mencoba lagi, Maka Kita Ketik "ya". Seperti gambar Dibawah ini :
+
+
