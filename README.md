@@ -1,6 +1,6 @@
 # PROGAM MENENTUKAN BILANGAN TERBESAR DARI 3 BUAH BILANGAN DATA
 
-# Berikut merupakan Program untuk menentukan  bilangan terbesar dari buah bilangan 3 data :
+# Berikut merupakan Program untuk menentukan  bilangan terbesar dari buah bilangan 3 data di :
 
 # 1. Langkah Pertama Kita Buat Source Code Seperti Gambar Dibawah Ini.
    
@@ -12,3 +12,6 @@
   Disini saya menggunakan aplikasi cmd, Kemudian Kita Ikuti  Cara Seperti Gambar Dibawah Ini :
   
 
+
+Nah.. Disini Kita Mengisi Angka Di Setiap Bilangan, Contoh Saya Memasukan bilangan1 = 66, bilangan2 = 90, bilangan3 = 9.
+Maka Hasil Outputnya 90 terbesar dan 9 terkecil
