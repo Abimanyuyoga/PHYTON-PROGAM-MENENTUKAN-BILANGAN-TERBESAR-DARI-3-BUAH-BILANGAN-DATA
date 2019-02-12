@@ -16,6 +16,9 @@
 Nah.. Disini Kita Mengisi Angka Di Setiap Bilangan, Contoh Saya Memasukan bilangan1 = 66, bilangan2 = 90, bilangan3 = 9.
 Maka Hasil Outputnya 90 terbesar dan 9 terkecil.
 
-Jika Ingin Mencoba lagi, Maka Kita Ketik "ya". Seperti gambar Dibawah ini :
+Jika Ingin Mencoba lagi, Maka Kita Ketik "ya" Lalu Tekan ENTER. Seperti Gambar Dibawah Ini :
 
+![99](https://user-images.githubusercontent.com/46512870/52616464-368d9d00-2ecb-11e9-8a53-736cdeb5d190.PNG)
+
+Jika Kita Mengetik "ya". Maka Kita Harus Masukan Bilangan Seperti tadi, Contoh Saya Memasukan bilangan1 = 12, bilangan2 = 10, bilangan 3 = 8. Maka Hasil Outputnya 12 terbesar dan 8 terkecil. Seperti Gambar Dibawah ini
 
