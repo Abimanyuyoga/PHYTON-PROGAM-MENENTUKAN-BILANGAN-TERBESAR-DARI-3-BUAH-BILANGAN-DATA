@@ -9,6 +9,7 @@
 ![capture1](https://user-images.githubusercontent.com/46512870/52615100-887ff400-2ec6-11e9-8744-e24fd6e6b63b.PNG)
 
 **2. Langkah Kedua Kita Cek Hasil Output Dari Source Code :**
+
   Disini saya menggunakan aplikasi cmd (Command Prompt), Kemudian Kita Ikuti  Cara Seperti Gambar Dibawah Ini :
   
 ![capture2](https://user-images.githubusercontent.com/46512870/52616862-8d47a680-2ecc-11e9-86fe-11baaac8b6b5.PNG)
@@ -20,7 +21,7 @@ Jika Ingin Mencoba lagi, Maka Kita Ketik **"ya"** Lalu Tekan **ENTER**. Seperti 
 
 ![99](https://user-images.githubusercontent.com/46512870/52616464-368d9d00-2ecb-11e9-8a53-736cdeb5d190.PNG)
 
-Jika Kita Mengetik "ya". Maka Kita Harus Masukan Bilangan Seperti tadi, Contoh Saya Memasukan bilangan1 = 12, bilangan2 = 10, bilangan3 = 8. Maka Hasil Outputnya 12 terbesar dan 8 terkecil. Seperti Gambar Dibawah ini :
+Jika Kita Mengetik **"ya"**. Maka Kita Harus Masukan Bilangan Seperti tadi, Contoh Saya Memasukan bilangan1 = 12, bilangan2 = 10, bilangan3 = 8. Maka Hasil Outputnya 12 terbesar dan 8 terkecil. Seperti Gambar Dibawah ini :
 
 ![capture3](https://user-images.githubusercontent.com/46512870/52616764-2c1fd300-2ecc-11e9-8003-10c9dec2a754.PNG)
 
